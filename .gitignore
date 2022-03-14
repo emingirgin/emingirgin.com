@@ -1,0 +1,8 @@
+node_modules
+scripts
+src
+package.json
+package-lock.json
+LICENSE
+.editorconfig
+.DS_Store
